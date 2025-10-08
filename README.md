@@ -7,9 +7,16 @@ Explainable AI Visualizations is a project that aims to provide visualizations t
 
 ## Features
 
+### Original GIF Visualization
+
 Generate GIFs from fully connected neural network models, like this one
 
 ![fully_connected_network_gif](images/fc_net_example.gif)
+
+### Modern XAI Frameworks Comparison
+A new comprehensive Jupyter notebook that prototypes and compares five modern XAI frameworks: LIME, SHAP, ELI5, InterpretML, and Captum. This notebook provides a practical guide to understanding and applying these powerful tools.
+
+Check it out here: [XAI Frameworks Comparison Notebook](notebooks/xai_frameworks_comparison.ipynb)
 
 ## Getting Started
 
